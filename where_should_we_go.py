@@ -1,3 +1,5 @@
+# This tool helps Timeout decide which venues to visit based on the attendees on a night out.
+
 import json
 
 # Load json into dict for both files
