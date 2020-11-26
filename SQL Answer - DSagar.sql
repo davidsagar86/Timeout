@@ -21,4 +21,4 @@ LEFT JOIN prices ON prices.product = new_sales.product AND
 					prices.price_effective_date = new_sales.price_effective_date)
 
 -- Aggregation to provide total revenue
-SELECT sum(revenue) FROM revenue_per_sale
+SELECT sum(revenue) FROM revenue_per_sale  -- Total Revenue is £4,390
