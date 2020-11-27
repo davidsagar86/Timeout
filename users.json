@@ -2,12 +2,12 @@
     {
         "name": "Danielle Ren",
         "wont_eat": ["Fish"],
-        "drinks": ["Cider", "Rum", "Soft drinks"]
+        "drinks": ["Cider", "Rum", "Soft Drinks"]
     },
     {
         "name": "Cristiana Lusitano",
         "wont_eat": ["Eggs", "Pasta"],
-        "drinks": ["Tequila", "Soft drinks", "Beer", "Coffee"]
+        "drinks": ["Tequila", "Soft Drinks", "Beer", "Coffee"]
     },
     {
         "name": "Karol Drewno",
@@ -17,7 +17,7 @@
     {
         "name": "Gaston Chambray",
         "wont_eat": [],
-        "drinks": ["Cider", "Beer", "Rum", "Soft drinks"]
+        "drinks": ["Cider", "Beer", "Rum", "Soft Drinks"]
     },
     {
         "name": "Tom Mullen",
@@ -27,7 +27,7 @@
     {
         "name": "Rosie Curran",
         "wont_eat": ["Mexican"],
-        "drinks": ["Vodka", "Gin", "Whisky", "Rum", "Cider", "Beer", "Soft drinks"]
+        "drinks": ["Vodka", "Gin", "Whisky", "Rum", "Cider", "Beer", "Soft Drinks"]
     },
     {
         "name": "Wen Li",
