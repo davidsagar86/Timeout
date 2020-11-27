@@ -56,22 +56,19 @@ Below is the json output from current function if all persons are attending the 
         {
             "name": "Twin Dynasty",
             "reason": [
-                "There is nothing for Tom to drink",
                 "There is nothing for Wen to eat"
             ]
         },
         {
             "name": "Wagamama",
             "reason": [
-                "There is nothing for Karol to drink",
-                "There is nothing for Tom to drink"
+                "There is nothing for Karol to drink"
             ]
         },
         {
             "name": "Sultan Sofrasi",
             "reason": [
-                "There is nothing for Karol to drink",
-                "There is nothing for Tom to drink"
+                "There is nothing for Karol to drink"
             ]
         },
         {
@@ -83,17 +80,13 @@ Below is the json output from current function if all persons are attending the 
         {
             "name": "Tally Joe",
             "reason": [
-                "There is nothing for Karol to drink",
-                "There is nothing for Tom to drink"
+                "There is nothing for Karol to drink"
             ]
         },
         {
             "name": "Fabrique",
             "reason": [
-                "There is nothing for Danielle to drink",
                 "There is nothing for Karol to drink",
-                "There is nothing for Gaston to drink",
-                "There is nothing for Rosie to drink",
                 "There is nothing for Wen to drink"
             ]
         }
