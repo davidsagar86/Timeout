@@ -1,4 +1,4 @@
-### Timeout 'Where should we go' tool ###
+## Timeout 'Where should we go' tool ###
 
 The Time Out team loves to socialise, some of them are also really fussy! In order to spend less time deciding where to go a programme has been created decides for them.
 
