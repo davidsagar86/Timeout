@@ -2,7 +2,7 @@
     {
         "name": "El Cantina",
         "food": ["Mexican"],
-        "drinks": ["Soft drinks", "Tequila", "Beer"]
+        "drinks": ["Soft Drinks", "Tequila", "Beer"]
     },
     {
         "name": "Twin Dynasty",
@@ -12,12 +12,12 @@
     {
         "name": "Spice of life",
         "food": ["Eggs", "Meat", "Fish", "Pasta", "Dairy"],
-        "drinks": ["Vodka", "Gin", "Whisky", "Rum", "Cider", "Beer", "Soft drinks"]
+        "drinks": ["Vodka", "Gin", "Whisky", "Rum", "Cider", "Beer", "Soft Drinks"]
     },
     {
         "name": "The Cambridge",
         "food": ["Eggs", "Meat", "Fish", "Pasta", "Dairy"],
-        "drinks": ["Vodka", "Gin", "Cider", "Beer", "Soft drinks"]
+        "drinks": ["Vodka", "Gin", "Cider", "Beer", "Soft Drinks"]
     },
     {
         "name": "Wagamama",
