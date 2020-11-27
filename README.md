@@ -39,7 +39,7 @@ The tool will then output the results (as per the requirement) into the console 
 ## Sample Output
 
 Below is the json output from current function if all persons are attending the night out
-
+```yaml
 {
     "places_to_visit": [
         "Spice of life",
