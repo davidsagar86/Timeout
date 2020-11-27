@@ -92,7 +92,7 @@ Below is the json output from current function if all persons are attending the 
         }
     ]
 }
-
+```
 
 ## Running the tests
 
